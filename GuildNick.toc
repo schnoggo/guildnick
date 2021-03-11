@@ -1,0 +1,9 @@
+## Interface: 90005
+## Title: GuildNick
+## Notes: Display guild note nicknames in chat
+## Version: 1.67
+## Author: Schnoggo
+## Dependencies:
+## SavedVariables:
+localization.lua
+guildnick.lua
