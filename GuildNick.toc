@@ -3,6 +3,10 @@
 ## Notes: Display guild note nicknames in chat
 ## Version: 1.68
 ## Author: Schnoggo
+##
+## X-Curse-Project-ID: 264049
+## X-WoWI-ID: 26153
+##
 ## Dependencies:
 ## SavedVariables:
 localization.lua
