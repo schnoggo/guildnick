@@ -1,4 +1,5 @@
-GUILDNICK_TITLE="GuildNick Version 1.68";
+local version = GetAddOnMetadata("GuildNick", "Version")  
+GUILDNICK_TITLE="GuildNick Version " .. version ;
 --[[
 
 GUILDNICK_TEXT = {};
