@@ -1,4 +1,4 @@
-GUILDNICK_TITLE="GuildNick Version 1.67";
+GUILDNICK_TITLE="GuildNick Version 1.68";
 --[[
 
 GUILDNICK_TEXT = {};

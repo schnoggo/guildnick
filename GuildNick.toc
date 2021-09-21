@@ -1,7 +1,7 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: GuildNick
 ## Notes: Display guild note nicknames in chat
-## Version: 1.67
+## Version: 1.68
 ## Author: Schnoggo
 ## Dependencies:
 ## SavedVariables:

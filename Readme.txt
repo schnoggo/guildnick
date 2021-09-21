@@ -39,6 +39,9 @@ none
 
 Version History
 ===============
+Sep 21, 2021 (1.68)
+* Updated TOC for WoW client 9.1 (Shadowlands)
+
 Mar 10, 2021 (1.67)
 * Updated TOC for WoW client 9.05 (Shadowlands)
 
